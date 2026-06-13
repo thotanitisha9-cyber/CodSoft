@@ -1,0 +1,37 @@
+movieId,title,genres
+1,Inception,Action|Sci-Fi|Thriller
+2,Interstellar,Sci-Fi|Drama|IMAX
+3,The Matrix,Action|Sci-Fi
+4,Star Wars: Episode IV - A New Hope,Action|Adventure|Sci-Fi
+5,Blade Runner 2049,Sci-Fi|Thriller
+6,The Martian,Adventure|Drama|Sci-Fi
+7,Arrival,Sci-Fi|Drama|Mystery
+8,Edge of Tomorrow,Action|Sci-Fi
+9,The Shawshank Redemption,Drama
+10,The Godfather,Crime|Drama
+11,Pulp Fiction,Comedy|Crime|Drama|Thriller
+12,Forrest Gump,Comedy|Drama|Romance
+13,Fight Club,Action|Crime|Drama|Thriller
+14,The Green Mile,Crime|Drama|Fantasy
+15,GoodFellas,Crime|Drama
+16,Titanic,Drama|Romance
+17,The Notebook,Drama|Romance
+18,La La Land,Comedy|Drama|Musical|Romance
+19,When Harry Met Sally...,Comedy|Romance
+20,About Time,Comedy|Drama|Fantasy|Romance
+21,Pride & Prejudice,Drama|Romance
+22,500 Days of Summer,Comedy|Drama|Romance
+23,Toy Story,Adventure|Animation|Children|Comedy|Fantasy
+24,Spirited Away,Adventure|Animation|Fantasy
+25,Finding Nemo,Adventure|Animation|Children|Comedy
+26,The Lion King,Adventure|Animation|Children|Drama|Musical
+27,"Monsters, Inc.",Adventure|Animation|Children|Comedy|Fantasy
+28,WALL-E,Adventure|Animation|Children|Romance|Sci-Fi
+29,How to Train Your Dragon,Adventure|Animation|Children|Fantasy
+30,The Silence of the Lambs,Crime|Horror|Thriller
+31,The Shining,Horror
+32,Psycho,Horror|Mystery|Thriller
+33,Get Out,Horror|Mystery|Thriller
+34,Se7en,Mystery|Thriller
+35,Shutter Island,Drama|Mystery|Thriller
+36,A Quiet Place,Horror|Sci-Fi|Thriller
